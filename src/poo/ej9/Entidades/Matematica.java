@@ -6,6 +6,7 @@ public class Matematica {
     //Atributos
     private double num1;
     private double num2;
+    private String atribPruebaGit;
     
     
     //Constructores
